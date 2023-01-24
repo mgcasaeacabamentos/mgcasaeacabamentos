@@ -755,7 +755,7 @@ footer {
 
   /*=== HOME =================================*/
   #home::before {
-    height: calc(47vw - var(--nav-height));
+    height: calc(51vw - var(--nav-height));
   }
 
   #home {
